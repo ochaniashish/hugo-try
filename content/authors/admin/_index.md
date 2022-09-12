@@ -53,9 +53,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
-  - icon: assets\media\icons\brands\org-gc.svg
-#    icon_pack: fab
-    link: https://github.com/gcushen
+  - company_logo: ssrn
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ashish-ochani
