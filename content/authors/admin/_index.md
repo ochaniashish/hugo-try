@@ -65,10 +65,10 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ako33@cornell.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -76,4 +76,4 @@ highlight_name: true
 
 I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. My research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
