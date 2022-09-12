@@ -35,6 +35,9 @@ education:
     - course: Bachelors of Commerce
       institution: University of Mumbai
       year: 2014
+    - course: Chartered Accountant (CPA equivalent)
+      institution: Institute of Chartered Accountants of India
+      year: 2015      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
