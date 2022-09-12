@@ -11,7 +11,7 @@ role: Ph.D. Candidate, Accounting
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Cornell University
-    url: https://www.stanford.edu/
+    url: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
