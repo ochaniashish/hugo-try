@@ -75,5 +75,3 @@ highlight_name: true
 ---
 
 I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. My research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
