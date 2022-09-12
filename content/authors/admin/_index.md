@@ -53,7 +53,7 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
-  - company_logo: ssrn
+  - icon: ssrn
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
   - icon: linkedin
