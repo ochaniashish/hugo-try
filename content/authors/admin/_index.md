@@ -14,13 +14,14 @@ organizations:
     url: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. His research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
+bio: I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. My research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
 
 # Interests to show in About widget
 interests:
   - Financial media
   - Cryptocurrency 
   - Investors' information demand
+  - Fundamental analysis
 
 # Education to show in About widget
 education:
