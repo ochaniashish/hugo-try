@@ -55,7 +55,7 @@ social:
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
   - icon: ssrn
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3791758
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ashish-ochani
