@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 
-subtitle: Experience
+title: Experience
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
