@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 48
 
 title: Research
 subtitle: ''
