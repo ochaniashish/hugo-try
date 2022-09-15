@@ -36,22 +36,22 @@ experience:
 #        * Modelling
 #        * Deploying
 
-  - title: Associate
-    company: Ernst Young
+  - title: Associate - Transaction Advisory
+    company: Ernst Young 
     company_url: ''
     company_logo: org-x
     location: Mumbai, India
-    date_start: '2016-09-01'
+    date_start: '2015-09-01'
     date_end: '2018-05-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Associate
+  - title: Intern - Audit
     company: Ernst Young
     company_url: ''
     company_logo: org-x
     location: Mumbai, India
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2013-01-01'
+    date_end: '2015-08-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
