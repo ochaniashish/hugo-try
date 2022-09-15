@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Experience
 subtitle:
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate research assistant
+  - title: Ph.D. Student
     company: Cornell University
     company_url: ''
     company_logo: org-gc
@@ -37,7 +37,7 @@ experience:
 #        * Deploying
 
   - title: Associate - Transaction Advisory
-    company: Ernst Young 
+    company: Ernst & Young 
     company_url: ''
     company_logo: org-x
     location: Mumbai, India
@@ -46,11 +46,11 @@ experience:
 #    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Intern - Audit
-    company: Ernst Young
+    company: Ernst & Young
     company_url: ''
     company_logo: org-x
     location: Mumbai, India
-    date_start: '2013-01-01'
+    date_start: '2013-07-01'
     date_end: '2015-08-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
