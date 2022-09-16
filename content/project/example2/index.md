@@ -7,7 +7,7 @@ tags: ['FM']
 date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960'
 
 image: 
   caption: Parallel trends
