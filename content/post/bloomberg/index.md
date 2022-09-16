@@ -1,7 +1,7 @@
 
 ---
 title: 'Why Chronic Profit Shortages Mean Most Stock Prices Can Not Be Justified'
-summary: 
+summary: Bloomberg
 
 tags: []
 date: '2022-09-01T00:00:00Z'
@@ -28,5 +28,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
