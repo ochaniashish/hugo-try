@@ -1,6 +1,7 @@
 ---
 title: 'Distracted financial media: Evidence from cryptocurrency market'
-summary: I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Prior research shows that financial media influences investors, managers and institutions but their production function is not well understood in the literature. I find that media prefers to write about cryptocurrency events and decide to drop earnings announcements articles. This is attributable to media’s propensity to cover new topics of interest by investors. This effect appears to fade away as the time passes by. Potential gain and loss of readership influences this relation. Smaller alt coins which will not get much readership do not influence earnings announcement coverage by media. Overall, my results provide evidence on how cryptocurrency markets have spillover effects on financial media’s role in capital markets. 
+summary: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more.
+
 tags: ['FM', 'Crypto']
 date: '2022-09-01T00:00:00Z'
 
