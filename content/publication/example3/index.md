@@ -1,17 +1,19 @@
 ---
-title: 'News articles by Steven Russolillo from The Wall Street Journal'
+title: 'The media goes where it is needed: The relation between the investor base and media coverage'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Nicholas Guest
   - admin
+  - Mani Sethuraman
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2011-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,10 +29,10 @@ publication_types: ['7']
 publication: ''
 publication_short: '' 
 
-abstract: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more. 
+abstract: The figure 
 
 # Summary. An optional shortened abstract.
-summary: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more. 
+summary: The figure  
 
 tags: []
 
