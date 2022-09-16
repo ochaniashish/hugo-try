@@ -6,15 +6,13 @@ title: 'The media goes where it's needed: The relation between the investor base
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nicholas Guest
-  - Ashish Ochani
-  - Mani Sethuraman
+  - admin
 
 # Author notes (optional)
 author_notes:
   - 'Equal Contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2012-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,12 +28,12 @@ publication_types: ['7']
 publication: ''
 publication_short: '' 
 
-abstract: "The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms. " 
+abstract: abab 
 
 # Summary. An optional shortened abstract.
-summary: "The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms."
+summary: abab
 
-tags: []
+tags: ['FM']
 
 # Display this page in the Featured widget?
 featured: true
