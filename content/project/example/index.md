@@ -10,7 +10,7 @@ external_link: ''
 
 image: 
   caption: Anecdotal evidence
-  focal_point: Smart
+  focal_point: TopRight
 
 # links:
 #  - icon: twitter
