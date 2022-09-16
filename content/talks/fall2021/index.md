@@ -4,6 +4,8 @@ summary: NCC 5500 Financial Accounting <br /> Fall 2021
 
 tags: []
 # date: ''
+# Show the page's date?
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
