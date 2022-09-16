@@ -1,6 +1,6 @@
 
 ---
-title: 'Why Chronic Profit Shortages Mean Most Stock Prices Can Not Be Justified'
+title: 'Bloomberg - Why Chronic Profit Shortages Mean Most Stock Prices Can Not Be Justified'
 summary: Bloomberg
 
 tags: []
