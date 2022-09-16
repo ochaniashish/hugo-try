@@ -1,7 +1,8 @@
 
 ---
 title: 'Distracted financial media: Evidence from cryptocurrency market'
-summary: I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Prior research shows that financial media influences investors, managers and institutions but their production function is not well understood in the literature. I find that media prefers to write about cryptocurrency events and decide to drop earnings announcements articles. This is attributable to media’s propensity to cover new topics of interest by investors. This effect appears to fade away as the time passes by. Potential gain and loss of readership influences this relation. Smaller alt coins which will not get much readership do not influence earnings announcement coverage by media. Overall, my results provide evidence on how cryptocurrency markets have spillover effects on financial media’s role in capital markets. 
+summary: The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage due to TCJA. This is consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.
+
 tags: ['FM', 'Crypto']
 date: '2022-09-01T00:00:00Z'
 
