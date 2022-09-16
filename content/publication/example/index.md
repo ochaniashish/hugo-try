@@ -1,5 +1,5 @@
 ---
-title: 'News articles by Steven Russolillo from The Wall Street Journal'
+title: 'Distracted financial media: Evidence from cryptocurrency markets'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - 'Dissertation'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
