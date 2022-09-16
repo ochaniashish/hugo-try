@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: 
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Fall 2020
+event_url: 
 
 location: Wowchemy HQ
 address:
@@ -22,7 +22,7 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors: []
 tags: []
