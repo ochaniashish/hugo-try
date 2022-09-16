@@ -1,7 +1,7 @@
 ---
 
-title: 'Instructor - NCC 5500 Financial Accounting'
-summary: Fall 2021 <br /> Instructor rating - 3.9/5.0 <br /> Fall 2020 <br /> Instructor rating - 4.7/5.0
+title: 'Instructor - '
+summary: Fall 2021 - NCC 5500 Financial Accounting <br /> Instructor rating - 3.9/5.0 <br /> Fall 2020 - NCC 5500 Financial Accounting <br /> Instructor rating - 4.7/5.0
 
 show_related: false
 
