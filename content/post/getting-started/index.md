@@ -6,7 +6,7 @@ subtitle: 'Bloomberg'
 summary: Bloomberg
 
 # Link this post with a project
-projects: ['example5']
+projects: []
 
 # Date published
 date: '2020-12-13T00:00:00Z'
