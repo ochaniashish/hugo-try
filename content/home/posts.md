@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: post
 
   sort_by: 'Date'
   sort_ascending: false
