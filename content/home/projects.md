@@ -16,6 +16,9 @@ content:
   # Page type to display. E.g. project.
   page_type: project
 
+  sort_by: 'Date'
+  sort_ascending: false
+
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
