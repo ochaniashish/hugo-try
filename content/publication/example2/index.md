@@ -24,16 +24,16 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['8']
+publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: '' 
 
-abstract: 'The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.'  
+abstract: The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.  
 
 # Summary. An optional shortened abstract.
-summary: 'The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.' 
+summary: The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.
 
 tags: []
 
