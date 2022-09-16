@@ -1,13 +1,13 @@
 
 ---
-title: 'Distracted financial media: Evidence from cryptocurrency market'
-summary: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more.
+title: 'Why Chronic Profit Shortages Mean Most Stock Prices Can't Be Justified'
+summary: 
 
-tags: ['FM', 'Crypto','Earn']
+tags: []
 date: '2022-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.bloomberg.com/news/articles/2021-11-18/a-chronic-profit-shortage-has-stalked-stock-markets-for-decades?leadSource=uverify%20wall'
 
 image: 
   caption: Anecdotal evidence
