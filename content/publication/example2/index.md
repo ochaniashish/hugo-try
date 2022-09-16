@@ -1,6 +1,6 @@
 
 ---
-title: 'Media coverage before and after Tax Cuts and Jobs Act, 2017'
+title: 'The media goes where it's needed: The relation between the investor base and media coverage'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,10 +30,10 @@ publication_types: ['3']
 publication: ''
 publication_short: '' 
 
-abstract: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more. 
+abstract: The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms.  
 
 # Summary. An optional shortened abstract.
-summary: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more. 
+summary: The figure shows the difference between media coverage of treatment and control firms before and after the Tax Cuts and Jobs Act, 2017 (TCJA). Treated firms are the firms affeced by the amendment in section 163(j) of the Internal Revenue Code. TCJA 2017 amended the section to limit the interest deduction in the computation of taxable income to the sum of 30% of the taxable income and interest income. Carrizosa, Gaertner and Lynch (2020) document a decline in leverage for the treated firms post TCJA. The figure suggests that there was an increase in media coverage for the firms which reduced their leverage consistent with the main finding of the paper that financial media caters more to monitoring demand by equity investors than debt investors who are involved directly in monitoring the firms. 
 
 tags: []
 
