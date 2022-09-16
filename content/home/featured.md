@@ -17,25 +17,24 @@ content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  filter_default: 0
+#  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Financial Media
-      tag: FM
-    - name: Cryptocurrency
-      tag: Crypto
-    - name: Earnings
-      tag: Earn
+#  filter_button:
+#    - name: All
+#      tag: '*'
+#    - name: Financial Media
+#      tag: FM
+#    - name: Cryptocurrency
+#      tag: Crypto
+#    - name: Earnings
+#      tag: Earn
 
-  
-  
+   
   
   # Filter on criteria
 #  filters:
