@@ -3,7 +3,7 @@ title: 'Instructor'
 summary: NCC 5500 Financial Accounting <br /> Fall 2021
 
 tags: []
-date: ''
+# date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
