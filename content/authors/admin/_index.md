@@ -1,3 +1,6 @@
+
+![cornell_logo](hugo-try/content/authors/admin/avatar.jpg?raw=true)
+
 ---
 # Display name
 title: Ashish Ochani
