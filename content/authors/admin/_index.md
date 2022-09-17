@@ -1,5 +1,5 @@
 
-![cornell_logo](hugo-try/content/authors/admin/avatar.jpg?raw=true)
+![cornell_logo](hugo-try/content/authors/admin/avatar.jpg)
 
 ---
 # Display name
