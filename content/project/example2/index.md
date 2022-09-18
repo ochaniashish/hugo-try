@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 # links:
-  - icon: medium
-    icon_pack: fab
-    name: SSRN
-    url: [https://twitter.com/georgecushen](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960)
+#  - icon: medium
+#    icon_pack: fab
+#    name: SSRN
+#    url: [https://twitter.com/georgecushen](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960)
 url_code: ''
 url_pdf: ''
 url_slides: ''
