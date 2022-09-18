@@ -1,6 +1,7 @@
 ---
 title: 'Distracted financial media: Evidence from cryptocurrency market'
 summary: The figure shows the trend of substitution of earnings related articles with crypto related articles by Steven Russolillo who writes for The Wall Street Journal. If this pattern exists for major financial media outlets, it would have implications for equity markets. My job market paper examines the information production function of financial media. Specifically, I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Click on research tab to read more.
+{{< cta cta_text="Abstract" cta_link="" cta_new_tab="true" >}}
 
 tags: ['FM', 'Crypto','Earn']
 date: '2022-09-01T00:00:00Z'
@@ -28,6 +29,4 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-{{< cta cta_text="Abstract" cta_link="" cta_new_tab="true" >}}
-
 ---
