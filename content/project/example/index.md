@@ -12,10 +12,6 @@ image:
   caption: Anecdotal evidence
   focal_point: TopRight
 
-links:
-  name: Follow
-  url: https://twitter.com/georgecushen
-  
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -28,3 +24,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+links:
+  name: Follow
+  url: https://twitter.com/georgecushen
