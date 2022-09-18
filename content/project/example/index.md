@@ -12,11 +12,10 @@ image:
   caption: Anecdotal evidence
   focal_point: TopRight
 
-# links:
-  - icon: twitter
-    icon_pack: ai
-    name: Follow
-    url: https://twitter.com/georgecushen
+links:
+  name: Follow
+  url: https://twitter.com/georgecushen
+  
 url_code: ''
 url_pdf: ''
 url_slides: ''
