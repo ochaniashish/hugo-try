@@ -20,7 +20,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960'
-url_slides: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
