@@ -76,5 +76,5 @@ email: 'ako33@cornell.edu'
 highlight_name: true
 ---
 
-![logo](logo2.svg) </br> Hi! I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis Johnson School of Management. I am on the 2022-23 job market.
+Hi! I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis Johnson School of Management. I am on the 2022-23 job market.
 I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. My research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
