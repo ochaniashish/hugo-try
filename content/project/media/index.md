@@ -8,7 +8,7 @@ tags: ['FM']
 date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960'
+external_link: ''
 
 links:
   - name: Abstract
@@ -42,3 +42,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+Abstract: We provide evidence that a firm’s investor base is a key factor in determining its media coverage. Using a large sample of U.S. public companies spanning the period 2000-2019, we find that firm-specific media coverage is negatively associated with leverage. Our results suggest the media caters relatively more to equity investors, who largely rely on public information, than to debt investors, who are often privy to privileged information. We arrive at similar conclusions when we exploit plausibly exogenous changes in investor base and investor access to privileged information. Among debt investors, the media appears to cater to public bond holders more than private banks. Among equity investors, the media appears to cater to quasi-index institutions. Additionally, cross-sectional variation in media coverage based on investment and article types reveals that the media’s role is far more nuanced than previously documented. Overall, our findings suggest that financial media coverage is significantly influenced by less sophisticated professional investors’ demand for information to help monitor firms.
