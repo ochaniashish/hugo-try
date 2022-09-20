@@ -10,7 +10,7 @@ date: '2022-06-01T00:00:00Z'
 external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064'
 
 image: 
-  caption: Anecdotal evidence
+  caption: Google Search Volume
   focal_point: Smart
 
 # links:
@@ -28,5 +28,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
