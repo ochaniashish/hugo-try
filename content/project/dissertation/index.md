@@ -8,7 +8,7 @@ date: '2022-09-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
- links:
+links:
   - name: Abstract
     url: https://superb-clafoutis-a3a958.netlify.app/project/dissertation/
 
