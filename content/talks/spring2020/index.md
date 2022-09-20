@@ -36,3 +36,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+Spring 2020 - NBA 5090 Advanced FSA <br /> Summer 2019                                      - NCC 5000 Financial Accounting <br /> Summer 2019 - NCCB 5000 Financial Accounting <br /> Fal 2019     - NCCW 5000 Financial Accounting  
