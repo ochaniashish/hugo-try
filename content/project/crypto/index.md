@@ -25,7 +25,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: '`content/project/crypto/crypto.pdf'
+url_pdf: 'content/project/crypto/crypto.pdf'
 url_slides: ''
 url_video: ''
 
