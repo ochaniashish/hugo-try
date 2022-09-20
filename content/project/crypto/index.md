@@ -4,7 +4,7 @@ title: 'Cryptocurrency disruption and investors reaction to earnings announcemen
 summary: "The figure presents the relation between Bitcoin price (BTC-USD) and google search volume for the term 'crypto'. It appears from the simple bi-ivariate analysis that investor demand for crypto is related to Bitcoin price. In this paper, we find that price movements in the cryptocurrency markets distracts investors and influence market's reaction to earnings announcements."     
 
 tags: ['Earn', 'Crypto']
-date: '2022-06-01T00:00:00Z'
+date: '2022-09-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
