@@ -22,6 +22,3 @@ title:
 author: admin
 ---
 
-<body>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=im6qhA8eSkRhdZmj9ActkC4ebl7dDLRKyZK-3r3HT50'></script>
-</body>
