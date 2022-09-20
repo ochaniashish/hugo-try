@@ -1,7 +1,7 @@
 
 ---
 title: 'Lifetime earnings'
-summary: The distribution of the ratio of lifetime earnings per share to stock price is shown in this figure. We compute every firm's discounted value of lifetime earnings on the first trading day and scale it by the stock price on that day. The observations to the left of red line at one had lifetime earnings lower than their stock price. We find that for more than two thirds of the firms which started trading after 1975 could not generate enough earnings over their lifetime to justify their first day trading price. Of the one thirds, mergers accounted for 71% of the success due to the merger premium paid to shareholders at the time of mergers. This depicts the errors between the earnings expectations of the market and the reality over long periods of time.   
+summary: (with *Sanjeev Bhojraj* and *Shivaram Rajgopal*) </br> The distribution of the ratio of lifetime earnings per share to stock price is shown in this figure. We compute every firm's discounted value of lifetime earnings on the first trading day and scale it by the stock price on that day. The observations to the left of red line at one had lifetime earnings lower than their stock price. We find that for more than two thirds of the firms which started trading after 1975 could not generate enough earnings over their lifetime to justify their first day trading price. Of the one thirds, mergers accounted for 71% of the success due to the merger premium paid to shareholders at the time of mergers. This depicts the errors between the earnings expectations of the market and the reality over long periods of time.   
 
 tags: ['Earn']
 
