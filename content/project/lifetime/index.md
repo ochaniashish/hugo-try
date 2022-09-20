@@ -5,7 +5,7 @@ summary: The distribution of the ratio of lifetime earnings per share to stock p
 
 tags: ['Earn']
 
-date: '2022-09-18T00:00:00Z'
+date: '2022-09-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
