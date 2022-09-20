@@ -24,22 +24,11 @@ image:
   caption: Distribution
   focal_point: Smart
 
-# links:
-#  - icon: twitter
-#    icon_pack: ai
-#    name: Follow
-#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
 <sub> The distribution of the ratio of lifetime earnings per share to stock price is shown in this figure. We compute every firm's discounted value of lifetime earnings on the first trading day and scale it by the stock price on that day. The observations to the left of red line at one had lifetime earnings lower than their stock price. We find that for more than two thirds of the firms which started trading after 1975 could not generate enough earnings over their lifetime to justify their first day trading price. Of the one thirds, mergers accounted for 71% of the success due to the merger premium paid to shareholders at the time of mergers. This depicts the errors between the earnings expectations of the market and the reality over long periods of time. </sub>
