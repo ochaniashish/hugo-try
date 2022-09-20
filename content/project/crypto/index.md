@@ -12,7 +12,7 @@ external_link: ''
 
 image: 
   caption: Google Search Volume
-  focal_point: Center
+  focal_point: Bottom
 
 links:
   - name: Figure
