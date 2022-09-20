@@ -13,13 +13,19 @@ image:
   caption: Google Search Volume
   focal_point: Smart
 
+links:
+  - name: Abstract
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064
+  - name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064
+
 # links:
 #  - icon: twitter
 #    icon_pack: ai
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: '`content/project/crypto/crypto.pdf'
 url_slides: ''
 url_video: ''
 
