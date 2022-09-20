@@ -8,9 +8,9 @@ date: '2022-09-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-links:
-  - name: Custom Link
-    url: www.google.com
+# links:
+#  - name: Custom Link
+#    url: www.google.com
 
 image: 
   caption: Anecdotal evidence
@@ -29,3 +29,4 @@ url_video: ''
 # slides: example
 ---
 
+Abstract: I study how and to what extent financial media is influenced by the advent of cryptocurrency markets. Prior research shows that financial media influences investors, managers and institutions but their production function is not well understood in the literature. I find that media prefers to write about cryptocurrency events and decide to drop earnings announcements articles. This is attributable to media’s propensity to cover new topics of interest by investors. I further examine the influence on covered firms around crypto events. Results suggest that there is a delay in publishing earnings announcement articles due to the distraction from crypto events. Examining the text of the news articles, I observe that the word count goes down and the amount of soft information goes down. Finally, I show the consequences of distracted financial media in the capital markets. Overall, my results provide evidence on how cryptocurrency markets have spillover effects on financial media’s role in capital markets. 
