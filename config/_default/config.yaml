@@ -7,7 +7,6 @@ title: Ashish Ochani
 # Website name
 baseURL: 'https://www.ochaniashish.com/' 
 # Website URL
-customCSS = ["/style.css"]
 
 ############################
 ## LANGUAGE
