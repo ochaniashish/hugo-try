@@ -7,7 +7,7 @@ tags: ['Earn', 'Crypto']
 date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064'
+external_link: ''
 
 image: 
   caption: Google Search Volume
