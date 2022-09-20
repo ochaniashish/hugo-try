@@ -8,6 +8,10 @@ date: '2022-09-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+links:
+  - name: Custom Link
+    url: www.google.com
+
 image: 
   caption: Anecdotal evidence
   focal_point: TopRight
@@ -25,6 +29,3 @@ url_video: ''
 slides: example
 ---
 
-links:
-  name: Follow
-  url: https://twitter.com/georgecushen
