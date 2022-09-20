@@ -10,6 +10,17 @@ date: '2022-08-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960'
 
+links:
+  - name: Abstract
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960
+  - name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960
+  - name: CLS Blue Sky Blog
+    url: https://clsbluesky.law.columbia.edu/2022/05/12/the-connection-between-a-firms-investor-base-and-media-coverage/
+  - name: Duke FinReg Blog
+    url: https://sites.duke.edu/thefinregblog/2022/04/27/the-media-goes-where-theyre-needed-the-relation-between-firms-investor-base-and-media-coverage/
+    
+
 image: 
   caption: Parallel trends
   focal_point: Smart
