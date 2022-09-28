@@ -30,7 +30,7 @@ experience:
     date_start: '2018-08-01'
     date_end: ''
     description: "
-**Instructor** <br/ > Fall 2021 - NCC 5500 Financial Accounting <br /> Instructor rating - 4.7/5.0 <br /> Fall 2020 - NCC 5500 Financial Accounting <br /> Instructor rating - 3.9/5.0 <br/> <br/> **Teaching Assistant** <br/> Spring 2020 - NBA 5090 Advanced FSA <br /> Summer 2019 - NCC 5000 Financial Accounting <br /> Summer 2019 - NCCB 5000 Financial Accounting <br /> Fal 2019 - NCCW 5000 Financial Accounting"
+**Instructor** <br/> Fall 2021 - NCC 5500 Financial Accounting <br /> Instructor rating - 4.7/5.0 <br /> Fall 2020 - NCC 5500 Financial Accounting <br /> Instructor rating - 3.9/5.0 <br/> <br/> **Teaching Assistant** <br/> Spring 2020 - NBA 5090 Advanced FSA <br /> Summer 2019 - NCC 5000 Financial Accounting <br /> Summer 2019 - NCCB 5000 Financial Accounting <br /> Fal 2019 - NCCW 5000 Financial Accounting"
 
 
 #        Responsibilities include:
