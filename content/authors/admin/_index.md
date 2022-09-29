@@ -21,7 +21,7 @@ bio: I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis J
 # Interests to show in About widget
 interests:
   - Financial media
-  - Cryptocurrency 
+  - Cryptocurrency markets
   - Investors' information demand
   - Fundamental analysis
 
