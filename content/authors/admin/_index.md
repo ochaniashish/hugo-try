@@ -11,7 +11,7 @@ role: Ph.D. Candidate, Accounting
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
+  - name: Cornell University <br /> Samuel Curtis Johnson Graduate School of Management
     url: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
 
 
