@@ -19,7 +19,7 @@ organizations:
 bio: I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis Johnson Graduate School of Management.
 
 # Interests to show in About widget
-Research interests:
+interests:
   - Investors' information demand
   - Capital markets
   - Financial media
