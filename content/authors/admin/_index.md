@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Management (Accounting)
+    - course: Ph.D. in Accounting
       institution: Cornell University
       year: 2023
     - course: Masters of Commerce
