@@ -16,7 +16,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis Johnson Graduate School of Management.
+bio: I am a Ph.D. candidate in Accounting at Samuel Curtis Johnson Graduate School of Management, Cornell University. I am on the 2022-23 job market.
 
 # Interests to show in About widget
 interests:
@@ -77,5 +77,4 @@ email: 'ako33@cornell.edu'
 highlight_name: true
 ---
 ![Cornell](logo2.svg)
-Hi! I am a Ph.D. candidate in Accounting at Cornell University, Samuel Curtis Johnson School of Management. I am on the 2022-23 job market.
-I am primarily interested in understanding the information production process of financial media in equity markets and the spillover effects of cryptocurrency markets. My research also includes examining the relevance of lifetime earnings in market pricing and the monitoring demand by institutional investors.
+Hi! I am a Ph.D. candidate in Accounting at Samuel Curtis Johnson School of Management, Cornell University. I am on the 2022-23 job market. I am broadly interested in understanding investors’ demand for information and how this demand affects capital markets and the information production function of intermediaries. In my job market paper, I study the information production function of financial media in capital markets. Specifically, I examine how cryptocurrency markets influence the media coverage of earnings announcements. 
