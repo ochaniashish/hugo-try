@@ -52,7 +52,7 @@ social:
     link: mailto:ako33@cornell.edu
   - icon: phone
     icon_pack: fas
-    link: Tel:607-279-4843
+    link: <div title="+1 607-279-4843"> Tel:607-279-4843 </div> 
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
