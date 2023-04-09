@@ -32,6 +32,9 @@ education:
     - course: Ph.D. in Accounting
       institution: Cornell University
       year: 2023
+    - course: Masters of Management
+      institution: Cornell University
+      year: 2022
     - course: Masters of Commerce
       institution: University of Mumbai
       year: 2017
