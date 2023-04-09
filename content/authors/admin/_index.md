@@ -77,4 +77,6 @@ email: 'ako33@cornell.edu'
 highlight_name: true
 ---
 ![Cornell](logo2.svg)
-Hi! I am a Ph.D. candidate in Accounting at Samuel Curtis Johnson School of Management, Cornell University. I will be joining Binghamton University School of Management as an Assistant Professor in Fall 2023! <\br> I am broadly interested in understanding investors’ demand for information and how this demand affects capital markets and the information production function of intermediaries. In my job market paper, I study the information production function of financial media in capital markets. Specifically, I examine how cryptocurrency markets influence the media coverage of earnings announcements. 
+Hi! I am a Ph.D. candidate in Accounting at Samuel Curtis Johnson School of Management, Cornell University. I will be joining Binghamton University School of Management as an Assistant Professor in Fall 2023!
+
+I am broadly interested in understanding investors’ demand for information and how this demand affects capital markets and the information production function of intermediaries. In my job market paper, I study the information production function of financial media in capital markets. Specifically, I examine how cryptocurrency markets influence the media coverage of earnings announcements. 
