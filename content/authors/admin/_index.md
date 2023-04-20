@@ -32,7 +32,7 @@ education:
     - course: Ph.D. in Accounting
       institution: Cornell University
       year: 2023
-    - course: Masters of Management
+    - course: MS in Management
       institution: Cornell University
       year: 2022
     - course: Masters of Commerce
