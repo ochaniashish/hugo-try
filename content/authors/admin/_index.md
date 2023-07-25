@@ -59,7 +59,7 @@ social:
   - icon: ssrn
     icon_pack: ai
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3791758
-  - icon: linkedin
+  - icon: LinkedIn
     icon_pack: fab
     link: https://www.linkedin.com/in/ashish-ochani
   - icon: cv
@@ -79,8 +79,8 @@ email: 'ako33@cornell.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-![Cornell](logonewa.png)
-Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding how investors’ demand for information and the information production function of intermediaries affect capital markets.
+![Cornell](logo new.png)
+<DIV align="justify">  Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding how investors’ demand for information and the information production function of intermediaries affect capital markets. </DIV> 
 
 I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.
 
