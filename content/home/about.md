@@ -18,7 +18,7 @@ title:
 
 design:
   spacing:
-    padding: ["15px", "0", "15px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
