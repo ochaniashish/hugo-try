@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-
-
 # This file represents a page section.
 headless: true
 
@@ -42,7 +40,7 @@ experience:
     location: Mumbai, India
     date_start: '2015-09-01'
     date_end: '2018-05-31'
-#    Description: Taught electronic engineering and researched semiconductor physics.
+#    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Intern - Audit
     company: Ernst & Young
@@ -51,11 +49,8 @@ experience:
     location: Mumbai, India
     date_start: '2013-07-01'
     date_end: '2015-08-31'
-#    Description: Taught electronic engineering and researched semiconductor physics.
+#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
-#  spacing:
-#    padding: ["20px", "0", "20px", "0"]
-
 ---
