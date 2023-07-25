@@ -1,6 +1,6 @@
 ---
 title: 'Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets'
-summary: (*Dissertation*)
+summary: (*Dissertation*) </br>
 
 tags: ['FM', 'Crypto,' 'Earn']
 date: '2022-09-18T00:00:00Z'
@@ -10,7 +10,7 @@ external_link: ''
 
 links:
   - name: Abstract
-    url: https://superb-clafoutis-a3a958.netlify.app/project/dissertation/
+    URL: https://ochaniashish.com/project/dissertation/
 
 image: 
   caption: Anecdotal evidence
