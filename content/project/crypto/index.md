@@ -15,6 +15,8 @@ image:
   focal_point: Bottom
 
 links:
+  - name: Abstract
+    url: https://www.ochaniashish.com/project/crypto/
   - name: SSRN
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064
   - name: Duke FinReg Blog
