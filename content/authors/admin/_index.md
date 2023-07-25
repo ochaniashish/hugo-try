@@ -7,12 +7,12 @@ title: Ashish Ochani
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Accounting
+role: Ph.D., Cornell University
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Samuel Curtis Johnson Graduate School of Management
-    URL: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
+# organizations:
+#  - name: Samuel Curtis Johnson Graduate School of Management
+#    URL: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
 
 
 # Short bio (displayed in user profile at end of posts)
