@@ -19,31 +19,31 @@ role: PhD, Cornell University
 bio: I am an incoming Assistant Professor of Accounting at Binghamton University School of Management. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
 
 # Interests to show in About widget
-interests:
-  - Investors' information demand
-  - Capital markets
-  - Financial media
-  - Cryptocurrency markets
-  - Fundamental analysis and valuation
+# interests:
+#  - Investors' information demand
+#  - Capital markets
+#  - Financial media
+#  - Cryptocurrency markets
+#  - Fundamental analysis and valuation
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Accounting
-      institution: Cornell University
-      year: 2023
-    - course: MS in Management
-      institution: Cornell University
-      year: 2022
-    - course: Masters of Commerce
-      institution: University of Mumbai
-      year: 2017
-    - course: Bachelors of Commerce
-      institution: University of Mumbai
-      year: 2014
-    - course: Chartered Accountant (CPA equivalent)
-      institution: Institute of Chartered Accountants of India
-      year: 2015      
+# education:
+#  courses:
+#    - course: Ph.D. in Accounting
+#      institution: Cornell University
+#      year: 2023
+#    - course: MS in Management
+#      institution: Cornell University
+#      year: 2022
+#    - course: Masters of Commerce
+#      institution: University of Mumbai
+#      year: 2017
+#    - course: Bachelor of Commerce
+#      institution: University of Mumbai
+#      year: 2014
+#    - course: Chartered Accountant (CPA equivalent)
+#      institution: Institute of Chartered Accountants of India
+#      year: 2015      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
