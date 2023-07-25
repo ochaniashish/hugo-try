@@ -12,11 +12,11 @@ role: Ph.D. Candidate, Accounting
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Samuel Curtis Johnson Graduate School of Management
-    url: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
+    URL: https://www.johnson.cornell.edu/programs/phd-program/current-students/ako33/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Accounting at Samuel Curtis Johnson Graduate School of Management, Cornell University. I will be joining Binghamton University School of Management as an Assistant Professor in Fall 2023!
+bio: I am an incoming Assistant Professor of Accounting at Binghamton University School of Management. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
 
 # Interests to show in About widget
 interests:
