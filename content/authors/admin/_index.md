@@ -79,7 +79,7 @@ email: 'ako33@cornell.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-![Cornell](logonewa.png)   ![Cornell](logo2.svg)
+![Cornell](logonewa.png)
 Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding investors’ demand for information and how this demand affects capital markets and the information production function of intermediaries. In my job market paper, I study the information production function of financial media in capital markets. Specifically, I examine how cryptocurrency markets influence the media coverage of earnings announcements. 
 
 I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.
