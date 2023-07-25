@@ -40,10 +40,6 @@ content:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
-
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -54,4 +50,9 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
+
 ---
