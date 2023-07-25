@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-#  theme_night: minimal
-  font: minimal
+  theme_day: minimal
+#  theme_night: Minimal
+  font: Minimal
   font_size: M
 
 # SEO
