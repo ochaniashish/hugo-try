@@ -1,8 +1,8 @@
 ---
 title: 'Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets'
-summary: (*Dissertation*) </br> 
+summary: (*Dissertation*)
 
-tags: ['FM', 'Crypto','Earn']
+tags: ['FM', 'Crypto,' 'Earn']
 date: '2022-09-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
