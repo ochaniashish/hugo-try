@@ -67,7 +67,7 @@ social:
     link: https://www.ochaniashish.com/AKO_CV.pdf
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/resume.pdf,` enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -79,8 +79,9 @@ email: 'ako33@cornell.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-![Cornell](logo new.png)
+![Cornell](logonewa.png)
+
 <DIV align="justify">  Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding how investors’ demand for information and the information production function of intermediaries affect capital markets. </DIV> 
 
-I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.
+<DIV align="justify"> I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India. </DIV> 
 
