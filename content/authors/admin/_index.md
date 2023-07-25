@@ -7,7 +7,7 @@ title: Ashish Ochani
 superuser: true
 
 # Role/position/tagline
-# role: Ph.D., Cornell University
+role: PhD, Cornell University
 
 # Organizations/Affiliations to show in About widget
 # organizations:
