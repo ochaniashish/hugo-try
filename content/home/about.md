@@ -6,11 +6,6 @@ widget: about
 # Activate this widget? true/false
 active: true
 
-# design:
-#  spacing:
-#    padding: ["20px", "0", "20px", "0"]
-
-
 # This file represents a page section.
 headless: true
 
