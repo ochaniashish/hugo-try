@@ -79,6 +79,7 @@ email: 'ako33@cornell.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+![Cornell](logonew.png)
 ![Cornell](logo2.svg)
 Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding investors’ demand for information and how this demand affects capital markets and the information production function of intermediaries. In my job market paper, I study the information production function of financial media in capital markets. Specifically, I examine how cryptocurrency markets influence the media coverage of earnings announcements. 
 
