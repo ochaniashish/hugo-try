@@ -1,6 +1,6 @@
 ---
 title: 'The Media Goes Where It is Needed: The Relation Between the Investor Base and Media Coverage'
-summary: (with *Nicholas Guest* and *Mani Sethuraman*) </br> <DIV align="justify"> We provide evidence that a firm’s investor base is a key factor in determining its media coverage. Using a large sample of U.S. public companies spanning the period 2000-2019, we find that firm-specific media coverage is negatively associated with leverage. Our results suggest the media caters relatively more to equity investors, who largely rely on public information, than to debt investors, who are often privy to privileged information. We arrive at similar conclusions when we exploit plausibly exogenous changes in investor base and investor access to privileged information. Among debt investors, the media appears to cater to public bond holders more than private banks. Among equity investors, the media appears to cater to quasi-index institutions. Additionally, cross-sectional variation in media coverage based on investment and article types reveals that the media’s role is far more nuanced than previously documented. Overall, our findings suggest that financial media coverage is significantly influenced by less sophisticated professional investors’ demand for information to help monitor firms. </DIV>
+summary: (with *Nicholas Guest* and *Mani Sethuraman*) </br> 
 
 tags: ['FM']
 date: '2022-09-14T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2022-09-14T00:00:00Z'
 external_link: ''
 
 links:
-  - name: Figure
+  - name: Abstract
     url: https://www.ochaniashish.com/project/media2/
   - name: SSRN
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051960
@@ -40,6 +40,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-The figure presents the difference between media coverage of treatment and control firms before and after loan origination by a block holder. Treated firms have dual-holders investors i.e. the institutional investors who provided a loan to the firm. When an equity investor becomes a dual-holder, they obtain increased access to management and privileged information. Thus, their demand for monitoring and information from the public sources such as media likely decreases after the loan is issued. After loans from dual-holders are originated, the media coverage of treated firms is 9% lower relative to the media coverage of control firms. Interestingly, the treatment effect takes a few quarters to fully manifest, as evidenced by the insignificant estimates for quarters 1 and 2. We believe this delay is intuitive because it likely takes some time for (1) institutional investors to set up monitoring capabilities (e.g., request, receive, and analyze private information from firms) and (2) the media to become aware of the existence of a dual-holder and the resulting shift in monitoring and demand for news. 
+<DIV align="justify"> We provide evidence that a firm’s investor base is a key factor in determining its media coverage. Using a large sample of U.S. public companies spanning the period 2000-2019, we find that firm-specific media coverage is negatively associated with leverage. Our results suggest the media caters relatively more to equity investors, who largely rely on public information, than to debt investors, who are often privy to privileged information. We arrive at similar conclusions when we exploit plausibly exogenous changes in investor base and investor access to privileged information. Among debt investors, the media appears to cater to public bond holders more than private banks. Among equity investors, the media appears to cater to quasi-index institutions. Additionally, cross-sectional variation in media coverage based on investment and article types reveals that the media’s role is far more nuanced than previously documented. Overall, our findings suggest that financial media coverage is significantly influenced by less sophisticated professional investors’ demand for information to help monitor firms. </DIV>
 
