@@ -82,6 +82,6 @@ highlight_name: true
 ![Cornell](logonewa.png)
 
 <DIV align="justify">  Hi! I am an incoming Assistant Professor at the Binghamton University School of Management in Fall 2023. I am broadly interested in understanding how investors’ demand for information and the information production function of intermediaries affect capital markets. </DIV> 
-
-<DIV align="justify"> I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India. </DIV> 
+</br>
+I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.
 
