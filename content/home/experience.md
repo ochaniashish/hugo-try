@@ -6,6 +6,12 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
+
+
 # Order that this section appears on the page.
 weight: 90
 
