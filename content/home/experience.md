@@ -3,14 +3,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-# This file represents a page section.
-headless: true
-
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 
+
+# This file represents a page section.
+headless: true
 
 # Order that this section appears on the page.
 weight: 90
@@ -46,7 +46,7 @@ experience:
     location: Mumbai, India
     date_start: '2015-09-01'
     date_end: '2018-05-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+#    Description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Intern - Audit
     company: Ernst & Young
