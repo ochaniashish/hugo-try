@@ -48,10 +48,10 @@ design:
   #   5 = Showcase
   view: 1
 
-  # For Showcase view, flip alternate rows?
+  # For Showcase view, flip alternate rows.
   flip_alt_rows: false
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+#  spacing:
+#    padding: ["20px", "0", "20px", "0"]
 
 ---
