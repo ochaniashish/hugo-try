@@ -64,7 +64,7 @@ social:
     link: https://www.linkedin.com/in/ashish-ochani
   - icon: cv
     icon_pack: ai
-    link: https://www.ochaniashish.com/AKO_CV.pdf
+    link: https://www.ochaniashish.com/uploads/AKO_CV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf,` enable `ai` icons in `params. tool,
