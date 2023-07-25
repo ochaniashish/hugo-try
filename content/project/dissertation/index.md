@@ -1,16 +1,16 @@
 ---
-title: "Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets"
-summary: (*Dissertation*) </br>
+title: 'Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets'
+summary: (*Dissertation*) </br> <DIV align="justify"> This paper examines how and to what extent financial media coverage is affected by events in cryptocurrency markets. I find that the financial media responds to the rising demand for news about the cryptocurrency market by either delaying earnings news coverage or lowering the quality of earnings news articles. On crypto event days, earnings news articles are shorter and rely more on quantitative data suggesting that fewer resources were allocated by media firms to earnings announcement news articles. Capital markets react less to earnings announcements as a result of the reduced coverage by financial media on crypto event days. Interestingly, media increases coverage of firm-specific events in the 30-day period after the crypto event to cater to the informational demand from equity investors. </DIV>
 
-tags: ['FM', 'Crypto,' 'Earn']
+tags: ['FM', 'Crypto','Earn']
 date: '2022-09-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 links:
-  - name: Abstract
-    URL: https://ochaniashish.com/project/dissertation/
+  - name: Figure
+    url: https://superb-clafoutis-a3a958.netlify.app/project/dissertation/
 
 image: 
   caption: Anecdotal evidence
@@ -28,5 +28,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<DIV align="justify"> This paper examines how and to what extent financial media coverage is affected by events in cryptocurrency markets. I find that the financial media responds to the rising demand for news about the cryptocurrency market by either delaying earnings news coverage or lowering the quality of earnings news articles. On crypto event days, earnings news articles are shorter and rely more on quantitative data suggesting that fewer resources were allocated by media firms to earnings announcement news articles. Capital markets react less to earnings announcements as a result of the reduced coverage by financial media on crypto event days. Interestingly, media increases coverage of firm-specific events in the 30-day period after the crypto event to cater to the informational demand from equity investors. </DIV>
-
+<DIV align="justify"> The figure shows the difference between the media coverage of affected firms and other firms during two months around their earnings announcement day. The affected firms are the firms which released their earnings information on a crypto event day. I observe that earnings news coverage is lower for the affected firms on the day of crypto events. Interestingly, there is an increase in firm-specific media coverage of affected firms in the one month period after the crypto event. It appears that media capitalizes on the demand for crypto news on a crypto event day but decides to cover the firm later to satisfy the investor demand for the information about firms. No statistical difference in media coverage of affected firms and other firms before the earnings announcement suggests that there were no pre-trends.  </DIV>
