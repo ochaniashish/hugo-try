@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Portfolio
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -48,10 +48,6 @@ design:
   #   5 = Showcase
   view: 1
 
-  # For Showcase view, flip alternate rows.
+  # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-
-#  spacing:
-#    padding: ["20px", "0", "20px", "0"]
-
 ---
