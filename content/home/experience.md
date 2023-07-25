@@ -3,10 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
 
 
 # This file represents a page section.
@@ -55,8 +51,12 @@ experience:
     location: Mumbai, India
     date_start: '2013-07-01'
     date_end: '2015-08-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+#    Description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
+
 ---
