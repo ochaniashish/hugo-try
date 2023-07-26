@@ -3,7 +3,7 @@
 title: 'Lifetime Earnings'
 summary: (with *Sanjeev Bhojraj* and *Shivaram Rajgopal*) </br> *Revise and Resubmit* at Management Science  
 
-tags: ['Earn']
+tags: ['Earnings','Capital Markets']
 
 date: '2022-10-16T00:00:00Z'
 
