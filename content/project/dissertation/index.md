@@ -3,7 +3,7 @@
 title: 'Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets'
 summary: (*Dissertation*)  
 
-tags: ['FM','Crypto','Earn']
+tags: ['Financial Media','Cryptocurrency','Earnings','Capital Markets','Retail Investors']
 
 date: '2023-07-16T00:00:00Z'
 
