@@ -1,6 +1,6 @@
 
 ---
-title: "Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets"
+title: 'Delayed Media Coverage of Earnings News: Evidence from Cryptocurrency Markets'
 summary: (*Dissertation*)  
 
 tags: ['FM', 'Crypto,' 'Earn']
