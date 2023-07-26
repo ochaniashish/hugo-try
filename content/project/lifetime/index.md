@@ -19,6 +19,8 @@ links:
     url: https://www.bloomberg.com/news/articles/2021-11-18/a-chronic-profit-shortage-has-stalked-stock-markets-for-decades?leadSource=uverify%20wall
   - name: Forbes
     url: https://www.forbes.com/sites/shivaramrajgopal/2020/12/14/is-this-time-different-learning-from-the-1999-ipo-boom/
+  - name: Morgan Stanley
+    url: https://www.morganstanley.com/im/publication/insights/articles/article_birthdeathandwealthcreation.pdf?1690349403945
 
 image: 
   caption: Distribution
