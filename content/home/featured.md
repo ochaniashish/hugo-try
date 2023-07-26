@@ -31,11 +31,18 @@ content:
     - name: All
       tag: '*'
     - name: Financial Media
-      tag: FM
+      tag: Financial Media
     - name: Cryptocurrency
-      tag: Crypto
+      tag: Cryptocurrency
     - name: Earnings
-      tag: Earn
+      tag: Earnings
+    - name: Capital Markets
+      tag: Capital Markets
+    - name: Institutional Investors
+      tag: Institutional Investors
+    - name: Retail Investors
+      tag: Retail Investors
+      
 
   # Filter on criteria
 #  filters:
