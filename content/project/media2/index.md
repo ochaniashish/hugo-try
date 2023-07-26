@@ -3,7 +3,7 @@ title: 'The Media Goes Where It is Needed: The Relation Between the Investor Bas
 summary: (with *Nicholas Guest* and *Mani Sethuraman*)  
 
 tags: ['FM']
-date: '2022-09-14T00:00:00Z'
+date: '2022-08-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
