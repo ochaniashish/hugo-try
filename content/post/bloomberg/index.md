@@ -6,6 +6,8 @@ summary: Bloomberg
 tags: []
 date: '2021-11-18T00:00:00Z'
 
+reading_time: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.bloomberg.com/news/articles/2021-11-18/a-chronic-profit-shortage-has-stalked-stock-markets-for-decades?leadSource=uverify%20wall'
 
