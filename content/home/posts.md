@@ -12,8 +12,6 @@ weight: 50
 title: Media Mentions
 subtitle: ''
 
-reading_time = false
-
 
 content:
   # Page type to display. E.g. project.
