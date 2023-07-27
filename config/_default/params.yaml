@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
-#  theme_night: Minimal
-  font: Classic
+  theme_day: Mr Robot
+#  theme_night: minimal
+  font: minimal
   font_size: M
 
 # SEO
@@ -25,7 +25,7 @@ marketing:
     baidu_tongji: ''
   verification:
     google: ''
-    Baidu: ''
+    baidu: ''
 
 # Site header
 
@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: GitHub-light
+    theme_light: github-light
     theme_dark: dracula
   math:
     enable: false
