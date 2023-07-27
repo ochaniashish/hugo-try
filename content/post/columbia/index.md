@@ -6,6 +6,8 @@ summary: Columbia Sky Blog
 tags: []
 date: '2022-05-12T00:00:00Z'
 
+reading_time: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://clsbluesky.law.columbia.edu/2022/05/12/the-connection-between-a-firms-investor-base-and-media-coverage/'
 
