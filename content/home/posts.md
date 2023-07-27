@@ -12,14 +12,15 @@ weight: 50
 title: Media Mentions
 subtitle: ''
 
+reading_time = false
+
+
 content:
   # Page type to display. E.g. project.
   page_type: post
 
   sort_by: 'Date'
   sort_ascending: false
-
-  reading_time = false
   
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #  filter_default: 0
