@@ -1,5 +1,5 @@
 ---
-title: Media Mentions
+title: "Media Mentions"
 cms_exclude: true
 
 # View.
