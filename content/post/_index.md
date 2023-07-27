@@ -1,5 +1,5 @@
 ---
-title: Media mentions
+title: Media Mentions
 cms_exclude: true
 
 # View.
