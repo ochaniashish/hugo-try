@@ -1,10 +1,10 @@
 
 ---
-title: 'Duke FinReg Blog - Cryptocurrency Disruption and Investor Reaction to Earnings Announcements'
-summary: 
+title: 'Cryptocurrency Disruption and Investor Reaction to Earnings Announcements'
+summary: Duke FinReg Blog 
 
 tags: []
-date: '2022-07-01T00:00:00Z'
+date: '2022-07-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sites.duke.edu/thefinregblog/2022/07/29/cryptocurrency-disruption-and-investor-reaction-to-earnings-announcements/'
