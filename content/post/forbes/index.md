@@ -7,6 +7,8 @@ summary: Forbes
 tags: []
 date: '2020-12-14T00:00:00Z'
 
+reading_time: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.forbes.com/sites/shivaramrajgopal/2020/12/14/is-this-time-different-learning-from-the-1999-ipo-boom/'
 
