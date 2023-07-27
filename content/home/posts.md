@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Media mentions
+title: Media Mentions
 subtitle: ''
 
 content:
@@ -48,7 +48,7 @@ design:
   #   5 = Showcase
   view: 1
 
-  # For Showcase view, flip alternate rows?
+  # For Showcase view, flip alternate rows.
   flip_alt_rows: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
