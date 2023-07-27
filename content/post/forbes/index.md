@@ -1,11 +1,11 @@
 
 
 ---
-title: 'Forbes - Is This Time Different? Learning From The 1999 IPO Boom'
-summary: 
+title: 'Is This Time Different? Learning From The 1999 IPO Boom'
+summary: Forbes
 
 tags: []
-date: '2022-07-01T00:00:00Z'
+date: '2020-12-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.forbes.com/sites/shivaramrajgopal/2020/12/14/is-this-time-different-learning-from-the-1999-ipo-boom/'
