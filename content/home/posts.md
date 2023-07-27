@@ -19,6 +19,8 @@ content:
   sort_by: 'Date'
   sort_ascending: false
 
+  reading_time = false
+  
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #  filter_default: 0
 
