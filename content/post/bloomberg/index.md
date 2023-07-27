@@ -6,8 +6,6 @@ summary: Bloomberg
 tags: []
 date: '2022-09-01T00:00:00Z'
 
-"Bloomberg - Why Chronic Profit Shortages Mean Most Stock Prices Can't Be Justified"
-
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.bloomberg.com/news/articles/2021-11-18/a-chronic-profit-shortage-has-stalked-stock-markets-for-decades?leadSource=uverify%20wall'
 
