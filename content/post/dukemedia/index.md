@@ -1,11 +1,11 @@
 
 
 ---
-title: 'Duke FinReg Blog - The Media Goes Where They’re Needed: The Relation between Firms’ Investor Base and Media Coverage'
-summary: 
+title: 'The Media Goes Where They’re Needed: The Relation between Firms’ Investor Base and Media Coverage'
+summary: Duke FinReg Blog
 
 tags: []
-date: '2022-07-01T00:00:00Z'
+date: '2022-05-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sites.duke.edu/thefinregblog/2022/04/27/the-media-goes-where-theyre-needed-the-relation-between-firms-investor-base-and-media-coverage/'
