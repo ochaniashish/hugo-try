@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor of Accounting
     company: Binghamton University
     company_url: ''
-    company_logo: org-bu.png
+    company_logo: org-bu
     location: Binghamton, NY
     date_start: '2023-08-01'
     date_end: 
