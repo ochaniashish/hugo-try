@@ -30,3 +30,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+<DIV align="justify">This paper examines how and to what extent financial media coverage is affected by events in cryptocurrency markets. I find that the media responds to the rising demand for news about the cryptocurrency market by either delaying earnings news coverage or lowering the quality of earnings news articles. On crypto event days, earnings news articles are shorter and rely more on quantitative data, suggesting that fewer resources are allocated by media firms to earnings news articles. Capital markets react less to earnings announcements as a result of the reduced coverage by the media on crypto event days. Interestingly, the media increases coverage of firm-specific events in the 30-day period after the crypto event to cater to the informational demand from equity investors. </DIV>
