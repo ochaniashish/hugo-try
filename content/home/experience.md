@@ -28,7 +28,7 @@ experience:
     company_logo: org-bu.png
     location: Binghamton, NY
     date_start: '2023-08-01'
-    date_end: ''
+    date_end: 
     description: ""
 
   - title: Ph.D. Student
