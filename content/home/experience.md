@@ -45,7 +45,7 @@ Instructor rating - 4.7/5.0 <br />
 Fall 2020 - NCC 5500 Financial Accounting <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Instructor rating - 3.9/5.0 <br/> <br/>
 **Teaching Assistant** <br/>
-Spring 2020 &nbsp;&nbsp; - NBA 5060 Financial Statement Analysis <br />
+Spring 2020 &nbsp;&nbsp;&nbsp; - NBA 5060 Financial Statement Analysis <br />
 Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - NCCW 5000 Financial Accounting <br />
 Summer 2019 - NCCB 5000 Financial Accounting <br />
 Summer 2019 - NCC 5000 Financial Accounting"
@@ -58,7 +58,7 @@ Summer 2019 - NCC 5000 Financial Accounting"
     location: Mumbai, India
     date_start: '2015-09-01'
     date_end: '2018-05-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+#    Description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Intern - Audit
     company: Ernst & Young
