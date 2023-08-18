@@ -29,7 +29,10 @@ experience:
     location: Binghamton, NY
     date_start: '2023-08-01'
     date_end: 
-    description: " "
+    description: "
+**Instructor** <br/>
+Fall 2023 - ACCT 311 Intermediate Accounting Theory
+    "
 
   - title: Ph.D. Student
     company: Cornell University
