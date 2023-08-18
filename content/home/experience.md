@@ -42,7 +42,7 @@ experience:
 **Instructor** <br/>
 Fall 2021 - NCC 5500 Financial Accounting <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Instructor rating - 4.7/5.0 <br />
-Fall 2020 - NCC 5500 Financial Accounting <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Fall 2020 - NCC 5500 Financial Accounting (_Hybrid_) <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Instructor rating - 3.9/5.0 <br/> <br/>
 **Teaching Assistant** <br/>
 Spring 2020 &nbsp;&nbsp;&nbsp; - NBA 5060 Financial Statement Analysis <br />
