@@ -16,7 +16,7 @@ role: PhD, Cornell University
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Assistant Professor of Accounting at Binghamton University School of Management. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
+bio: I am an Assistant Professor of Accounting at Binghamton University School of Management. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
 
 # Interests to show in About widget
 # interests:
@@ -81,7 +81,7 @@ highlight_name: true
 ---
 ![Cornell](logonewa.png)
 
-<DIV align="justify">  Hi! I will be joining the Binghamton University School of Management as an Assistant Professor of Accounting in Fall 2023. I am broadly interested in understanding how information demand from investors and the information production function of intermediaries affect capital markets. </DIV> 
+<DIV align="justify">  Hi! I am an Assistant Professor of Accounting at the Binghamton University School of Management. I am broadly interested in understanding how information demand from investors and the information production function of intermediaries affect capital markets. </DIV> 
 </br>
-I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.
+<DIV align="justify"> I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.</DIV> 
 
