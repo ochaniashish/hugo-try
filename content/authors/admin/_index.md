@@ -52,7 +52,7 @@ bio: I am an Assistant Professor of Accounting at Binghamton University School o
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ako33@cornell.edu
+    link: mailto:aochani@binghamtone.edu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
@@ -74,7 +74,7 @@ social:
 #   link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ako33@cornell.edu'
+email: 'aochani@binghamton.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
