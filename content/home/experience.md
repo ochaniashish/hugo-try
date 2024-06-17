@@ -31,7 +31,8 @@ experience:
     date_end: 
     description: "
 **Instructor** <br/>
-Fall 2023 - ACCT 311 Intermediate Accounting Theory
+Fall 2023   - ACCT 311 Intermediate Accounting Theory I <br/>
+Spring 2024 - ACCT 312 Intermediate Accounting Theory II
     "
 
   - title: Ph.D. Student
