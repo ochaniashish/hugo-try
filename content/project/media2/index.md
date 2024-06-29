@@ -1,5 +1,5 @@
 ---
-title: 'The Media Goes Where It is Needed: The Relation Between the Investor Base and Media Coverage'
+title: 'The Financial Media and Investor Monitoring'
 summary: (with *Nicholas Guest* and *Mani Sethuraman*)  
 
 tags: ['Financial Media','Institutional Investors']
