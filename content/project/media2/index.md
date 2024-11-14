@@ -1,7 +1,6 @@
 ---
 title: 'The Financial Media and Investor Monitoring'
-summary: (with *Nicholas Guest* and *Mani Sethuraman*) </br> 
-*Revise and Resubmit* at Contemporary Accounting Research   
+summary: (with *Nicholas Guest* and *Mani Sethuraman*) </br> *Revise and Resubmit* at Contemporary Accounting Research   
 
 tags: ['Financial Media','Institutional Investors']
 date: '2022-08-14T00:00:00Z'
