@@ -5,7 +5,7 @@ summary: (*Dissertation*)
 
 tags: ['Financial Media','Cryptocurrency','Earnings','Capital Markets','Retail Investors']
 
-date: '2023-07-16T00:00:00Z'
+date: '2023-01-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
