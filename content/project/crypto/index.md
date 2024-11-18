@@ -4,7 +4,7 @@ title: "Cryptocurrency Disruption and Investors' Reaction to Earnings Announceme
 summary: (with *Minjae Kim, Eva Liang* and *Xinyuan Shao*)
 
 tags: ['Earnings', 'Cryptocurrency','Retail Investors','Capital Markets']
-date: '2022-09-13T00:00:00Z'
+date: '2024-07-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
