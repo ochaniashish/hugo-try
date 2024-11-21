@@ -1,7 +1,7 @@
 
 ---
 title: 'Lifetime Earnings'
-summary: (with *Sanjeev Bhojraj* and *Shivaram Rajgopal*) </br> *Revise and Resubmit* at Management Science  
+summary: (with *Sanjeev Bhojraj* and *Shivaram Rajgopal*) </br> *Conditionally Accepted* at Management Science  
 
 tags: ['Earnings','Capital Markets']
 
