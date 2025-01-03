@@ -1,7 +1,7 @@
 
 
 ---
-title: "End of Intellectual Property Protection and Information Environment"
+title: "End of Firms' Intellectual Property (IP) Protection and Voluntary Disclosures"
 summary: (with *Muskan Chawla*, and *Luminita Enache*)
 
 tags: ['Innovation', 'Disclosure']
@@ -36,4 +36,4 @@ url_video: ''
 # slides: example
 ---
 <DIV align="justify"> 
-This paper examines the effects of the end of intellectual property protection on a firm’s voluntary disclosure decisions. Focusing on the pharmaceutical industry, we document that firms are less inclined to provide management guidance around patent expirations due to the significant uncertainty regarding future performance. Specifically, managers are more likely to reduce short-term guidance compared to long-term guidance. This reduced likelihood of issuing management guidance stems primarily from managerial uncertainty. Our findings indicate that the non-issuance of management guidance is more pronounced when the patent expiration is associated with (a) a higher impact on the firm’s revenues and market share, (b) weaker IP protection, and (c) greater uncertainty about generic entry. In contrast, managers tend to increase qualitative disclosure about patent expiration during the presentation segments of the conference calls, plausibly to compensate for the reduced quantitative disclosures. Additionally, peer firms actively invest in their R&D pipelines to capitalize on the patent expiration of the focal firm without increasing their disclosure. Overall, our paper highlights how managers change their disclosures in response to market-anticipated adverse events. </DIV>
+This paper examines how the expiration of a firm's intellectual property protection affects its voluntary disclosure decisions. Existing research suggests that managers weigh the benefits of disclosure against its potential costs, particularly during adverse events. We focus on a unique, predictable adverse event: patent expirations. Using granular data on pharmaceutical drug patents, we find that firms are less likely to issue management guidance during quarters surrounding patent expirations, with a notable reduction in short-term guidance. This behavior is driven by two key mechanisms: the predictable nature of patent expirations reduces the risk of shareholder lawsuits, and managers seek to mitigate reputational risks by avoiding forecasts that could be perceived as overly optimistic. Despite the reduction in quantitative guidance, managers enhance qualitative discussions on patent expirations during conference calls. Firms proactively address anticipated revenue declines by increasing innovation efforts well before expiration dates. Overall, this study highlights how managers strategically adapt disclosure practices to navigate market-anticipated adverse events. </DIV>
