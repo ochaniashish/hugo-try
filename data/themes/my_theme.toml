@@ -3,14 +3,14 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "d6001c"
+  primary = "#d6001c"
 
   # Menu
-  menu_primary = "d6001c"
-  menu_text = "#fff"
+  menu_primary = "#d6001c"
+  menu_text = "#ffffff"
   menu_text_active = "#1bdf20"
-  menu_title = "#fff"
+  menu_title = "#ffffff"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#ffffff"    # rgb(255,255,255)
+  home_section_even = "#f7f7f7"   # rgb(247,247,247)
