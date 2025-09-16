@@ -1,8 +1,8 @@
 
 
 ---
-title: "End of Firms' Intellectual Property (IP) Protection and Voluntary Disclosures"
-summary: (with *Muskan Chawla*, and *Luminita Enache*)
+title: "The Age of Book Value: Time-Weighted Book-to-Market Ratio and the Cross-Section of Returns"
+summary: (Solo-authored)
 
 tags: ['Innovation', 'Disclosure']
 date: '2022-09-11T00:00:00Z'
@@ -36,4 +36,4 @@ url_video: ''
 # slides: example
 ---
 <DIV align="justify"> 
-This paper examines how the expiration of a firm's intellectual property protection affects its voluntary disclosure decisions. Existing research suggests that managers weigh the benefits of disclosure against its potential costs, particularly during adverse events. We focus on a unique, predictable adverse event: patent expirations. Using granular data on pharmaceutical drug patents, we find that firms are less likely to issue management guidance during quarters surrounding patent expirations, with a notable reduction in short-term guidance. This behavior is driven by two key mechanisms: the predictable nature of patent expirations reduces the risk of shareholder lawsuits, and managers seek to mitigate reputational risks by avoiding forecasts that could be perceived as overly optimistic. Despite the reduction in quantitative guidance, managers enhance qualitative discussions on patent expirations during conference calls. Firms proactively address anticipated revenue declines by increasing innovation efforts well before expiration dates. Overall, this study highlights how managers strategically adapt disclosure practices to navigate market-anticipated adverse events. </DIV>
+The book-to-market ratio (BM) is a key metric used in understanding the cross-section of stock returns. The book value in BM primarily comprises contributed capital and historical earnings accumulated over the firm's lifetime. The book value of a firm is a historical number that neglects the timing of earnings and capital contributions. This paper introduces a time-adjusted book-to-market ratio (TABM) that considers the time value of money by bringing past components of book value to their present value. I compare the performance of the TABM as a forecaster of future stock returns, incremental to the conventional BM. I find that TABM outperforms BM in predictive power for short-term and long-term stock returns. My findings indicate that, despite having the same BM, firms that have recently generated value perform differently from firms with legacy book values. My results shed light on the limitations of measures using historical book values computed following US GAAP and show that the addition of time adjustments to BM significantly enhances its applicability in asset pricing models. </DIV>
