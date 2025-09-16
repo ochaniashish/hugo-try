@@ -52,7 +52,7 @@ bio: I am an Assistant Professor of Accounting at Binghamton University School o
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:aochani@binghamton.edu
+    link: mailto:ashish.ochani@ucalgary.edu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOyj0ZcAAAAJ&hl=en&oi=ao
@@ -81,7 +81,7 @@ highlight_name: true
 ---
 ![Cornell](logonewa.png)
 
-<DIV align="justify">  Hi! I am an Assistant Professor of Accounting at the Binghamton University School of Management. I am broadly interested in understanding how information demand from investors and the information production function of intermediaries affect capital markets. </DIV> 
+<DIV align="justify">  Hi! I am an Assistant Professor of Accounting at the Haskayne School of Business, University of Calgary I am broadly interested in understanding how information demand from investors and the information production function of intermediaries affect capital markets. </DIV> 
 </br>
-<DIV align="justify"> I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.</DIV> 
+<DIV align="justify"> Before joining Haskayne, I was an Assistant Professor of Accounting at Binghamton University School of Management. I graduated from the Samuel Curtis Johnson School of Management, Cornell University, with a Ph.D. and a M.S. in Management. Before the Ph.D. program, I worked for Ernst & Young (EY) as a consultant in transaction advisory services and as an auditor in assurance services in Mumbai, India.</DIV> 
 
