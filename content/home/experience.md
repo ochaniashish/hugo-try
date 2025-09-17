@@ -44,10 +44,9 @@ Fall 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 217 Intorduction to 
     description: "
 **Instructor** <br/>
 Fall 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 311 Intermediate Accounting Theory I <br/>
-Spring 2024 - ACCT 312 Intermediate Accounting Theory II
-Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 312 Intermediate Accounting Theory I
-Spring 2025 - ACCT 312 Intermediate Accounting Theory I
-    "
+Spring 2024 - ACCT 312 Intermediate Accounting Theory II  <br/>
+Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 312 Intermediate Accounting Theory I  <br/>
+Spring 2025 - ACCT 312 Intermediate Accounting Theory I"
 
   - title: Ph.D. Student
     company: Cornell University
