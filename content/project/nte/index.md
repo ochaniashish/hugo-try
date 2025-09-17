@@ -1,7 +1,7 @@
 
 ---
 title: 'Negative Tangible Equity'
-summary: (with *Sanjeev Bhojraj*, *Bin Li* and *Shivaram Rajgopal*) </br> *Revise and Resubmit* at Contemporary Accounting Research  
+summary: (with *Sanjeev Bhojraj*, *Bin Li* and *Shivaram Rajgopal*) 
 
 tags: ['Earnings','Capital Markets']
 
