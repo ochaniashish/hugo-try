@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor of Accounting
     company: University of Calgary
     company_url: ''
-    company_logo: org-bu
+    company_logo: org-ca
     location: Calgary, AB, Canada
     date_start: '2025-07-01'
     date_end: 
@@ -45,7 +45,7 @@ Fall 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 217 Intorduction to 
 **Instructor** <br/>
 Fall 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 311 Intermediate Accounting Theory I <br/>
 Spring 2024 - ACCT 312 Intermediate Accounting Theory II
-Fall 2024 - ACCT 312 Intermediate Accounting Theory I
+Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 312 Intermediate Accounting Theory I
 Spring 2025 - ACCT 312 Intermediate Accounting Theory I
     "
 
