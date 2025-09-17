@@ -23,16 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor of Accounting
+    company: University of Calgary
+    company_url: ''
+    company_logo: org-bu
+    location: Calgary, AB, Canada
+    date_start: '2025-07-01'
+    date_end: 
+    description: "
+**Instructor** <br/>
+Fall 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 217 Intorduction to Financial Accounting
+    "
+
+  - title: Assistant Professor of Accounting
     company: Binghamton University
     company_url: ''
     company_logo: org-bu
     location: Binghamton, NY
     date_start: '2023-08-01'
-    date_end: 
+    date_end: '2025-06-01'
     description: "
 **Instructor** <br/>
-Fall 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 311 Intermediate Accounting Theory <br/>
-Spring 2024 - ACCT 312 Intermediate Accounting Theory
+Fall 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ACCT 311 Intermediate Accounting Theory I <br/>
+Spring 2024 - ACCT 312 Intermediate Accounting Theory II
+Fall 2024 - ACCT 312 Intermediate Accounting Theory I
+Spring 2025 - ACCT 312 Intermediate Accounting Theory I
     "
 
   - title: Ph.D. Student
