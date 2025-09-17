@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor of Accounting
     company: University of Calgary
     company_url: ''
-    company_logo: org-ca
+    company_logo: org-uc
     location: Calgary, AB, Canada
     date_start: '2025-07-01'
     date_end: 
