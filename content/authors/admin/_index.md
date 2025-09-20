@@ -16,7 +16,7 @@ role: Assistant Professor of Accounting
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor of Accounting at Binghamton University School of Management. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
+bio: I am an Assistant Professor of Accounting at University of Calgary. I graduated with a Ph.D. in Accounting from Samuel Curtis Johnson Graduate School of Management, Cornell University. 
 
 # Interests to show in About widget
 # interests:
